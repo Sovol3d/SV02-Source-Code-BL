@@ -23,6 +23,10 @@ The damage caused by modifying firmware also using the third party firmware will
 Sovol doesn’t provide tech help for help users to modify source code, but if you need us to add more functions, you are welcome to send us your suggestions via facebook massager here https://www.facebook.com/sovol3d/ or email 
 info@sovol3d.com 
 
+# Code Editor
+
+Arduino IDE 1.8.1 or newer
+
 # Technical Specifications
 
 - Extrusion Technology: Dual Extruder (2-in-1-out hotend)
